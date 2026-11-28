@@ -1,0 +1,129 @@
+{
+ "generated": "2026-11-28T13:58:24+00:00",
+ "files": {
+  "daily.json": {
+   "sha256": "54b3cc9aab50ef65d071f7e6fb0a05ee109070270d227be539176af9edc6a727",
+   "bytes": 370352
+  },
+  "latest.json": {
+   "sha256": "a903d71c4dbd3c64ccf92a4b1136f665ed2bace1091eb7fafba6dca5948b9826",
+   "bytes": 6537
+  },
+  "years/1998.json": {
+   "sha256": "5b904d27e80df6b177d271e9e36fcf2dc9f6b4d46ccd971c905947aa70473bd6",
+   "bytes": 255625
+  },
+  "years/1999.json": {
+   "sha256": "8df88db9efaee53cfbf58b4f0aa51075bc8284bfdca55e8f3512bbf3de60cee0",
+   "bytes": 421197
+  },
+  "years/2000.json": {
+   "sha256": "772859137406bfc9e9545ea570fe87dc2e0a411b4742366ee2d186deb83ce747",
+   "bytes": 365915
+  },
+  "years/2001.json": {
+   "sha256": "6a2c8fbb4cc4841e2b28f169d19c87eea91158dbd13ce5bba35895ea0f2422c1",
+   "bytes": 417300
+  },
+  "years/2002.json": {
+   "sha256": "73f64cf1c54deac545bbbd73e00080c8182ecddb0980d1d7df9f5407519204e9",
+   "bytes": 422109
+  },
+  "years/2003.json": {
+   "sha256": "568c4b46f4cda7039c6209c8b2e5dd734604a4841b2526da869de4298c4b0d59",
+   "bytes": 414470
+  },
+  "years/2004.json": {
+   "sha256": "e20764d31d75cd199593878567fb0fcbbb390f5478ee467004e240782b9a2df9",
+   "bytes": 467408
+  },
+  "years/2005.json": {
+   "sha256": "33f78f24d2ce62fad9f5926c3c6c38b114906940b5656de20a71dbb031e5daf0",
+   "bytes": 450879
+  },
+  "years/2006.json": {
+   "sha256": "846e500ccc8e26063674ca214c5dbe264c970f4918ec4d5a0eb00c3897d387b0",
+   "bytes": 387462
+  },
+  "years/2007.json": {
+   "sha256": "3f845b2e5b79ff53611a390aa885ffc8a3abccb26c2b3d5004f6b099ff63f236",
+   "bytes": 414271
+  },
+  "years/2008.json": {
+   "sha256": "2928cdc8226fcaf72969469ed92fa05757ecdbb7827dbf1c8fb4a5b132012648",
+   "bytes": 368112
+  },
+  "years/2009.json": {
+   "sha256": "5d20f18cb0753db91a9d3cc59ca0fd24076d79c3a8c8e9254d9656f8f1bb4ea0",
+   "bytes": 434761
+  },
+  "years/2010.json": {
+   "sha256": "382fe4677a07d659f048fec940bc9c90d43bc2ffe35a4729b9e29aec95e6d44c",
+   "bytes": 378674
+  },
+  "years/2011.json": {
+   "sha256": "c747cd3141fdf55e4f73b77c920d9ef5bed31e5310600dc0778c246e29b91d77",
+   "bytes": 429059
+  },
+  "years/2012.json": {
+   "sha256": "4d26417f7282339ac82cc258205045c4fbcd3c831507933753e4c5d5d15eea63",
+   "bytes": 426150
+  },
+  "years/2013.json": {
+   "sha256": "5d9d84fc180aa9ec0972dc63235192a4bb6acb07e6c7f0a3b8b21fd64c041d93",
+   "bytes": 370642
+  },
+  "years/2014.json": {
+   "sha256": "ba1bd49f76b3d7d39c058fec4aee366a1f7b2ac3d3a95c1cb0f9f8911ef793dc",
+   "bytes": 427066
+  },
+  "years/2015.json": {
+   "sha256": "27c686e00eb8286bc74f33cd3b40dc09bcec94415e1a8c2ca95d04f4f4d30c7e",
+   "bytes": 424007
+  },
+  "years/2016.json": {
+   "sha256": "55c417675c9ccf2dabeba8d5b92915426820eba0ed3f2e544b7077bf311575e7",
+   "bytes": 304907
+  },
+  "years/2017.json": {
+   "sha256": "2cf7fa0580daa605609a5dfb828d82220eca75619d2c6ff54bf9c51303ef8bfc",
+   "bytes": 428448
+  },
+  "years/2018.json": {
+   "sha256": "ba7b30e96335a8e4f44df9ae2467642b756848159f73a45e2a72716ac24cdfb6",
+   "bytes": 269507
+  },
+  "years/2019.json": {
+   "sha256": "f1753dbe17745d28dd49bbe3fd6fbea8f27dbeae8de2b8aa802ad4534e3fc1db",
+   "bytes": 408828
+  },
+  "years/2020.json": {
+   "sha256": "aecd19db3a4deeee3cb9b8690c188275da7703c34cc98eeabb0e4aa50124906b",
+   "bytes": 284818
+  },
+  "years/2021.json": {
+   "sha256": "3ee3bb79631f4198292281c0cacf6c7a77d65e0c6d8fcdc7b9bd34b1c01bcd0e",
+   "bytes": 169517
+  },
+  "years/2022.json": {
+   "sha256": "9ddf75679dc02a6a1ef95a618cb5b20930a4f1608ade3a5a18daea8cb2845789",
+   "bytes": 409846
+  },
+  "years/2023.json": {
+   "sha256": "1a6f08916b8c9c516c3f76ab18d399e8d8c54a3f87baf312ad484b129469b7bf",
+   "bytes": 429572
+  },
+  "years/2024.json": {
+   "sha256": "35c9ccbef77dd8ce7c082140fe4548d28bcc30af90f90bc708e10d70073bfdd7",
+   "bytes": 438466
+  },
+  "years/2025.json": {
+   "sha256": "cf6050e839d8e7ba6e5a006138a410905fb561ef4db5d201c26bfa29efe0d27b",
+   "bytes": 439679
+  },
+  "years/2026.json": {
+   "sha256": "595cdfc62224205fed5b8bdb3c888dfc8df57b8b8511b19456cdc888a6ffaf4e",
+   "bytes": 392834
+  }
+ }
+}
